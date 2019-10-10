@@ -1,0 +1,47 @@
+body {
+  background-color: white;
+  text-align: center;                    
+  background-image: url("http://dianegress.com/wp-content/uploads/2014/11/simple-pattern-white-seamless-website-background-2.jpg");
+}
+main {
+  text-align: center;
+}
+.item {
+  width: 100%;
+  letter-spacing: 6px;
+  text-align: center; 
+  float: left;
+  background-color: #FFEECA;
+  border: 5px solid black;
+  box-sizing: border-box;
+}
+.item1{
+width: 100%;
+letter-spacing: 6px;
+text-align: center; 
+float: left;
+background-color: #FFEECA;
+border: 5px solid black;
+box-sizing: border-box;
+}
+.item2 {  
+  width: 100%;
+  letter-spacing: 6px;
+  text-align: center; 
+  float: left;
+  background-color: #FFEECA;
+  border: 5px solid black;
+  box-sizing: border-box;
+}
+
+  footer
+{
+    text-align: center;
+    font-family: 'Vollkorn', serif;
+    letter-spacing: 4px;
+    color: dark grey;
+    height: 5px;
+    bottom:auto;
+    display:inline-block;
+    padding:10px 400px;
+}
